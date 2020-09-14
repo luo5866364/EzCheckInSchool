@@ -33,7 +33,7 @@
 |`STU_ID`|`你的学号`|`201912340101`|
 |`STU_NAME`|`你的姓名`|`李华`|
 |`SC_URL`|[`Server酱调用URL`](http://sc.ftqq.com/?c=code)|`http://sc.ftqq.com/abcdefghigklmnopqrstuvwxyz.send`| 
-
+ 
 以上步骤完成后
 
 Fork的项目->Settings->Action->I understand... 开启Actions
